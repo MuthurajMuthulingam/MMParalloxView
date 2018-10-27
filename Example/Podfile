@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MMParalloxView_Example' do
+  pod 'MMParalloxView', :path => '../'
+
+  target 'MMParalloxView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
