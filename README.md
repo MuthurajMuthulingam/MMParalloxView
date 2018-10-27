@@ -1,5 +1,7 @@
 # MMParalloxView
 
+![MMParalloxView Demo](https://github.com/MuthurajMuthulingam/MMParalloxView/blob/master/Example/paralloxViewDemo.gif)
+
 [![CI Status](https://img.shields.io/travis/Muthuraj Muthulingam/MMParalloxView.svg?style=flat)](https://travis-ci.org/Muthuraj Muthulingam/MMParalloxView)
 [![Version](https://img.shields.io/cocoapods/v/MMParalloxView.svg?style=flat)](https://cocoapods.org/pods/MMParalloxView)
 [![License](https://img.shields.io/cocoapods/l/MMParalloxView.svg?style=flat)](https://cocoapods.org/pods/MMParalloxView)
