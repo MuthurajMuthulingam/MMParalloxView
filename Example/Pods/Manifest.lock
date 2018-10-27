@@ -1,0 +1,16 @@
+PODS:
+  - MMParalloxView (0.1.0)
+
+DEPENDENCIES:
+  - MMParalloxView (from `../`)
+
+EXTERNAL SOURCES:
+  MMParalloxView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMParalloxView: 67fd391a847671fe9c24cacb62b567fe967f020d
+
+PODFILE CHECKSUM: 6009f104da4c172bd9207566d047ca2adfb9d009
+
+COCOAPODS: 1.6.0.beta.1

@@ -42,10 +42,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7213AB6D05BBCEE24E20BDEE /* Pods-MMParalloxView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMParalloxView_Example.release.xcconfig"; path = "Target Support Files/Pods-MMParalloxView_Example/Pods-MMParalloxView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		7FE89AFF26A096DE06FBD7F5 /* MMParalloxView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MMParalloxView.podspec; path = ../MMParalloxView.podspec; sourceTree = "<group>"; };
-		A51D2475F1ABD7660FF98CBD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7FE89AFF26A096DE06FBD7F5 /* MMParalloxView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MMParalloxView.podspec; path = ../MMParalloxView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A51D2475F1ABD7660FF98CBD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A7CF2D4FF4B5B803C7E0EFB2 /* Pods-MMParalloxView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMParalloxView_Example.debug.xcconfig"; path = "Target Support Files/Pods-MMParalloxView_Example/Pods-MMParalloxView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		D004426AC4691B64719CE27C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D004426AC4691B64719CE27C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		DF681B4A4A8376E88301E112 /* Pods-MMParalloxView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMParalloxView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MMParalloxView_Tests/Pods-MMParalloxView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -156,7 +156,6 @@
 				DF681B4A4A8376E88301E112 /* Pods-MMParalloxView_Tests.debug.xcconfig */,
 				39AB8D3CA946100501935364 /* Pods-MMParalloxView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
